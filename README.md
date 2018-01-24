@@ -6,6 +6,10 @@ Paper: https://arxiv.org/abs/1709.01872
 
 SynthMed (Repository for GAN-produced synthetic medical images): https://synthmed.github.io/
 
+# Pipeline
+
+![Imgur Image](https://imgur.com/a/zRyzA)
+
 # Prerequisites
 - Python 2 and 3
 - numpy
@@ -14,7 +18,7 @@ SynthMed (Repository for GAN-produced synthetic medical images): https://synthme
 - Preprocessed dataset
 
 
-Acknowledgements:
+# Acknowledgements
 
 Stage-I GAN based on: https://github.com/carpedm20/DCGAN-tensorflow
 <br></br>
