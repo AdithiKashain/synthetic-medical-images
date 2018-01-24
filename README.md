@@ -8,7 +8,7 @@ SynthMed (Repository for GAN-produced synthetic medical images): https://synthme
 
 # Pipeline
 
-![Imgur Image](https://imgur.com/a/zRyzA)
+![Flowchart](/imgs/flowchart.png)
 
 # Prerequisites
 - Python 2 and 3
