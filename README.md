@@ -1,4 +1,4 @@
-# Synthetic Medical Images from Dual Generative Adversarial Networks: A Solution to the Scarcity and Privacy of Medical Data for Deep Learning
+# Synthetic Medical Images from Dual Generative Adversarial Networks
 
 Code is split into two stages: a segmentation-mask-generating DCGAN, and an image-to-image translator using pix2pix.
 
@@ -14,17 +14,10 @@ SynthMed (Repository for GAN-produced synthetic medical images): https://synthme
 - Preprocessed dataset
 
 
-# Figures
-
-![Imgur Image](https://i.imgur.com/KIUQYbc.jpg)
-
-![Imgur Image](https://i.imgur.com/0kyBN4e.png)
-
-
 Acknowledgements:
 
 Stage-I GAN based on: https://github.com/carpedm20/DCGAN-tensorflow
 <br></br>
 Stage-II GAN based on: https://github.com/ray0809/pix2pix
 
-Authors: John Guibas, Tejpal Virdi, Peter Li
+Authors: [John Guibas](https://github.com/johnguibas), [Tejpal Virdi](https://github.com/tejpalv), [Peter Li](https://github.com/petersli)
